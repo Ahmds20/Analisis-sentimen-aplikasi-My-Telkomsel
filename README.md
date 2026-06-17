@@ -82,15 +82,9 @@ Evaluasi dilakukan menggunakan:
 ```text
 .
 ├── dataset/
-│   ├── raw_data.csv
-│   └── processed_data.csv
+│   └── ulasan_mytelkomsel.csv
 │
-├── notebook/
-│   └── project_sentiment_analysis_MyTelkomsel.ipynb
-│
-├── results/
-│   ├── confusion_matrix.png
-│   └── evaluation_metrics.png
+├── project_sentiment_analysis_MyTelkomsel.ipynb
 │
 ├── requirements.txt
 └── README.md
@@ -164,7 +158,7 @@ project_sentiment_analysis_MyTelkomsel.ipynb
 
 **Ahmad Jazil Faiz**
 
-Program Studi Informatika
+**Program Studi Informatika**
 
 ## 📄 Lisensi
 
